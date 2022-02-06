@@ -1,3 +1,4 @@
+//additional fields to include net blocks in geodns
 package dnsutils
 
 import (
